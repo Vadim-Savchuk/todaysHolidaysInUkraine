@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todaysHolidaysInUkraine/static/css/main.78706fcb.css",
+    "main.js": "/todaysHolidaysInUkraine/static/js/main.70b00020.js",
+    "static/js/787.4af0fb89.chunk.js": "/todaysHolidaysInUkraine/static/js/787.4af0fb89.chunk.js",
+    "static/media/listening.png": "/todaysHolidaysInUkraine/static/media/listening.cc6c90703778d6f909e8.png",
+    "index.html": "/todaysHolidaysInUkraine/index.html",
+    "main.78706fcb.css.map": "/todaysHolidaysInUkraine/static/css/main.78706fcb.css.map",
+    "main.70b00020.js.map": "/todaysHolidaysInUkraine/static/js/main.70b00020.js.map",
+    "787.4af0fb89.chunk.js.map": "/todaysHolidaysInUkraine/static/js/787.4af0fb89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78706fcb.css",
+    "static/js/main.70b00020.js"
+  ]
+}
