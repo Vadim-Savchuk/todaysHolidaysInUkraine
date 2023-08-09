@@ -1,0 +1,17 @@
+.footer {
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0px;
+    align-items: center;
+    justify-content: space-between;
+
+    .email {
+        color: #000;
+        border-bottom: 1px solid #000;
+
+        &:hover {
+            border-bottom: 1px dashed #000;
+        }
+    }
+}

@@ -1,0 +1,25 @@
+.header {
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0px;
+    align-items: center;
+    justify-content: center;
+
+    .logo {
+        gap: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .logo_text {
+            padding: 5px;
+            border-bottom: 1px solid #000;            
+        }
+    }
+
+    .date {
+        padding: 5px;
+        border-bottom: 1px solid #000; 
+    }
+}

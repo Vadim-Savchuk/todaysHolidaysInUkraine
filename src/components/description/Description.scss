@@ -1,0 +1,31 @@
+.description {
+    display: flex;
+    flex-basis: 70%;
+    flex-direction: column;
+    justify-content: center;
+
+    .description_header {
+        gap: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+
+        .description_title {
+            font-size: 20px;
+            font-weight: 700;
+        }
+
+        .description_title_affiliation {
+            color: #fff;
+            padding: 5px 20px;
+            border-radius: 12px;
+            background-color: #0000ff;
+        }
+    }
+
+    .description_text {
+        margin-top: 20px;
+        white-space: pre-line;
+    }
+}
